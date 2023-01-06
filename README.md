@@ -1,0 +1,1 @@
+# useful-git-commit-msgs
